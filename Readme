@@ -1,0 +1,7 @@
+Para poder instalar el servicio sera necesario tener instalado mysql, tomcat o glashfish, netBeans y el IDE de desarrollo de Inter el IntelXDK
+
+Primero crearemos la base de datos con mySQL y despues una aplicacion java web en netBeans y la vista y la lógica para comunicarnos con el servidor irá creada en la intel XDK
+
+Para iniciar el servicio tendremos que conectarnos a la base de datos, lanzar el servidor ya sea tomcat o glashfish, para comprobar que se esta corriendo correctamente, ejecutaremos el index.html para comprobarlo e iniciar correctamente el servicio 
+
+Una vez hecho eso simplemente con el codigo QR que nos da el ide de intel podremos escanarlo y tendremos nuestra aplicacion en el movil o empaquetarla con cordova y subirla para que la gente la descarge y ya podrá usarla.
